@@ -1,0 +1,41 @@
+@import "./variables";
+@import "./menu";
+@import "./carrusel";
+@import "./contenidoPrincipal";
+@import "./galeriaFotos";
+@import "./botonFlotante";
+@import "./contacto";
+@import "./informacion";
+@import "./footer";
+@import "./responsive";
+
+
+
+  
+.sociales-redes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    @include responsive (tablet) {
+        flex-direction: column;
+        text-align: center;
+    }
+    @include responsive (mobile) {
+        flex-direction: column;
+    }
+}
+
+
+.flotante {
+    @extend  .flotante;
+    &:hover {
+        background-color: bisque;
+    }
+}
+
+
+  
+
+
+
+
