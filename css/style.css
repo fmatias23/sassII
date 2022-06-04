@@ -2,7 +2,7 @@
 .navbar {
   background-color: rgba(236, 215, 215, 0.916); }
   .navbar .navbar-dark .navbar-nav .nav-link {
-    color: black;
+    color: #090909;
     font-family: 'Indie Flower', cursive;
     font-family: 'Staatliches', cursive;
     font-family: 'Yanone Kaffeesatz', sans-serif; }
@@ -57,7 +57,7 @@ h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   margin: auto;
-  background-color: rgba(246, 174, 174, 0.541);
+  background-color: rgba(235, 163, 163, 0.541);
   color: #070909;
   padding: 15px;
   background-size: cover;
@@ -74,7 +74,7 @@ h4 {
   margin-bottom: 10px; }
 
 h3 {
-  color: #372e34; }
+  color: #332c31; }
 
 .fw-normal {
   text-align: center; }
@@ -115,7 +115,7 @@ h3 {
     font-size: xx-large; }
 
 .flotante-flechaa:hover {
-  color: #346fae; }
+  color: #346eac; }
 
 /* Secion de contacto */
 .wrapper {
@@ -127,7 +127,7 @@ h3 {
   background-color: #29508a; }
 
 #descripcionConsulta {
-  background-color: #eadddd; }
+  background-color: #e6dada; }
 
 .consulta {
   margin-top: 15px; }
@@ -157,7 +157,7 @@ footer {
   margin: 100px; }
   footer a {
     display: block;
-    background-color: #b2565e;
+    background-color: #ae5960;
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -196,4 +196,4 @@ footer {
       flex-direction: column; } }
 
 .flotante-flecha:hover, .flotante:hover {
-  background-color: bisque; }
+  background-color: #dfb178; }

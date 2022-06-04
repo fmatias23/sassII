@@ -10,5 +10,6 @@ $mobile: 425px;
       @media (min-width: $mobile) {
           @content;
       }
-  }    
+  }
+      
 }

@@ -297,5 +297,13 @@
     "yargs": "^17.5.1",
     "yargs-parser": "^20.2.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmatias23/sassII.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fmatias23/sassII/issues"
+  },
+  "homepage": "https://github.com/fmatias23/sassII#readme",
   "description": ""
 }
